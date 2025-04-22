@@ -39,13 +39,17 @@ I'm a passionate engineer and architect with 10+ years of experience designing a
 - 🔗 LinkedIn: [linkedin.com/in/ashishsanadhya](https://www.linkedin.com/in/ashishsanadhya)  
 - 💻 GitHub: [github.com/ashishsanadhya](https://github.com/aashu3739)
 
----
 
-## 📊 GitHub Stats
+[//]: #---
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishsanadhya&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsanadhya&layout=compact&theme=github_dark&hide_border=true)
+[//]: # ## 📊 GitHub Stats
+
+
+[//]: # ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishsanadhya&show_icons=true&theme=github_dark&hide_border=true)
+
+
+[//]: # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsanadhya&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
