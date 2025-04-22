@@ -40,17 +40,6 @@ I'm a passionate engineer and architect with 10+ years of experience designing a
 - 💻 GitHub: [github.com/ashishsanadhya](https://github.com/aashu3739)
 
 
-[//]: #---
-
-
-[//]: # ## 📊 GitHub Stats
-
-
-[//]: # ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishsanadhya&show_icons=true&theme=github_dark&hide_border=true)
-
-
-[//]: # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsanadhya&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
 > “Data without intelligence is noise. Systems without architecture are chaos.”  
